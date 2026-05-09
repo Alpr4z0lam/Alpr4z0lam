@@ -33,6 +33,7 @@ Sou um desenvolvedor focado no Brasil, especializado na construção de aplicaç
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 
   <br><br>
 
